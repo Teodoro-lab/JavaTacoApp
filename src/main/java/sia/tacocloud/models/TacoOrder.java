@@ -9,7 +9,7 @@ import lombok.Data;
 public class TacoOrder {
 
     private String deliveryName;
-    private String deliveryAddress;
+    private String deliveryStreet;
     private String deliveryCity;
     private String deliveryState;
     private String deliveryZip;
